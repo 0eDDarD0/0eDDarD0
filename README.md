@@ -5,7 +5,7 @@
 
 
 ## Languages and Tools  
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 
 
@@ -38,5 +38,5 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0eDDarD0&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0eDDarD0&hide_border=true&layout=compact" align="center" />
 <br />
