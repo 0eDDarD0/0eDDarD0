@@ -1,6 +1,6 @@
 # 🖍️ Junior Developer at T-Systems  
 
-
+<br/>
 
 # 💻 Tech Stack:
 
